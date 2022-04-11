@@ -1,6 +1,7 @@
 {
   "dependencies": {},
   "scripts": {
+    "frontend:install": "cd reactnd-contacts-complete && npm install",
 
   }
 }
